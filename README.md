@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @AutoTradingAce, a seasoned Algorithmic Trading Developer with a passion for portfolio management and financial analysis.
+- 🧠 My expertise lies in Machine Learning, Data Analysis, and Financial Analysis. I'm proficient in Python, with a particular fondness for the pandas library which I use for data manipulation and analysis.
+- 🌱 I’m currently diving deeper into the world of AI and Machine Learning, exploring advanced trading algorithms to enhance my trading bots. I'm also honing my skills in portfolio management and financial analysis to better understand and navigate the financial markets.
+- 👀 I’m interested in the intersection of technology and finance, and how AI can revolutionize trading. I'm fascinated by the potential of algorithmic trading and am always on the lookout for new strategies and techniques.
+- 💞️ I’m looking to collaborate on open-source trading bot projects and AI-driven financial models. I believe in the power of collaboration and am excited to learn from and contribute to the developer community.
+- 📫 How to reach me: 
+  - 📧 Email: autotradingace@gmail.com
+  - 🌐 LinkedIn: AutoTradingAce (https://www.linkedin.com/in/autotradingace-alrza)
+  - 📸 Instagram: AutoTradeAce (https://www.instagram.com/autotradeace?igsh=MWk5Y3A0Nmw5aXA5aw==)
+  - 🗨️ Telegram: AlirzA_2003 (https://t.me/AlirzA_2003)
+- 😄 Pronouns: Snake 🐍
+- ⚡ Fun fact: When I'm not coding or analyzing financial markets, I love to explore nature and make coffee (without Milk)! I find that it's a great way to clear my mind and spark creativity.
+- 🎯 My goal is to leverage my skills to build sophisticated trading bots that can navigate the complexities of the financial markets, and to share my journey and learnings with the community.
