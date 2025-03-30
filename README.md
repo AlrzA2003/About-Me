@@ -1,39 +1,40 @@
-# 🧙‍♂️ Alireza Mohebbi: Data Sorcerer in Training 🔮
-
-Greetings, fellow adventurers! 👋 I'm Alireza, a 21-year-old aspiring data wizard on a quest to unravel the mysteries of the digital realm. 🌟
-
-## 🎓 Academic Pursuits
-- 📚 Studying Radiography at Kashan University of Medical Science (Graduating Feb 2026)
-- 🔍 Embarking on the Google Data Analysis Certificate journey
-
-## 💼 Skills & Spells
-- 🐍 Python Enchantments: pandas, numpy, matplotlib, plotly
-- 📊 Data Visualization Sorcery
-- 🧮 Statistical Incantations
-- 💾 SQL Conjurations
-- 📈 Trading & Algorithmic Alchemy
-
-## 🏥 Medical Magic
-- 📷 Radiography
-- 🖥️ CT Scan
-- 🧲 MRI
-- 💉 Contrast Media
-
-## 🚀 Current Quest
-Forging a path in the realm of Data Analysis, where I aim to transmute raw data into golden insights! ✨
-
-## 📜 Notable Scrolls
-- 📊 Excel Mastery
-- 🎭 PowerPoint Illusions
-
-## 🌟 Special Abilities
-Blending the arcane arts of medical imaging with the mystical forces of data science to revolutionize healthcare analytics!
-
-## 🔮 Crystal Ball
-- [LinkedIn Scrying Mirror](www.linkedin.com/in/alrza)
-- [Telegram Astral Projection](https://t.me/AlrzA_2003)
-- [Email Spell: serbede.s34@gmail.com](mailto:serbede.s34@gmail.com)
-
-Join me on this epic adventure as we navigate the treacherous waters of big data and emerge victorious with insights that can change the world! 🌍✨
+# Alireza Mohebbi: Aspiring Data Analyst
 
 *"In the grand tapestry of data, every thread tells a story. Our quest is to weave these threads into a masterpiece of understanding."* - Alireza Mohebbi
+
+Greetings, and welcome to my profile. I am Alireza Mohebbi, a 21-year-old aspiring data analyst with a background in radiography. My objective is to bridge the fields of medical imaging and data science to drive innovation in healthcare analytics.
+
+## Academic Background
+- **Bachelor's Degree in Radiography**  
+  Kashan University of Medical Science (Expected Graduation: February 2026)
+- **Google Data Analytics Certificate** (In Progress)
+
+## Technical Skills
+- **Programming Languages:** Python (pandas, NumPy, matplotlib, Plotly)
+- **Data Analysis & Visualization**
+- **Statistical Analysis**
+- **SQL Database Management**
+- **Algorithmic Trading & Financial Data Analysis**
+
+## Medical Imaging Expertise
+- **Radiography**
+- **Computed Tomography (CT Scan)**
+- **Magnetic Resonance Imaging (MRI)**
+- **Contrast Media Application**
+
+## Current Focus
+I am currently honing my skills in data analysis, with a particular interest in leveraging data science to optimize medical imaging processes and improve diagnostic accuracy.
+
+## Additional Proficiencies
+- Microsoft Excel (Data Management & Analysis)
+- Microsoft PowerPoint (Professional Presentations)
+
+## Contact Information
+- **LinkedIn:** [LinkedIn Profile](www.linkedin.com/in/alrza)
+- **Telegram:** [Telegram Profile](https://t.me/AlrzA_2003)
+- **Email:** [serbede.s34@gmail.com](mailto:serbede.s34@gmail.com)
+
+I am always open to collaborations and discussions on data science applications in healthcare. Let’s connect and explore new possibilities in the world of data-driven insights.
+
+
+
