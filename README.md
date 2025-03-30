@@ -1,6 +1,7 @@
 # Alireza Mohebbi: Aspiring Data Analyst
 
-*"In the grand tapestry of data, every thread tells a story. Our quest is to weave these threads into a masterpiece of understanding."* - Alireza Mohebbi
+*"In the grand tapestry of data, every thread tells a story. Our quest is to weave these threads into a masterpiece of understanding."* 
+#### - Alireza Mohebbi
 
 Greetings, and welcome to my profile. I am Alireza Mohebbi, a 21-year-old aspiring data analyst with a background in radiography. My objective is to bridge the fields of medical imaging and data science to drive innovation in healthcare analytics.
 
