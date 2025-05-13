@@ -9,7 +9,7 @@
 ## 🎓 Academic Background
 - **📚 Bachelor's Degree in Radiography**  
   Kashan University of Medical Science (Expected Graduation: February 2026)
-- **📊 Google Data Analytics Certificate** [Certificate Link](https://1drv.ms/b/c/32ad82fef2c1dc75/EcWeWZ13arpLty7ScZVHxbEBJwZM59weWRJlo7LxW5dvBg?e=gwRuFF)
+- **📊 Google Data Analytics Certificate**: [Certificate Link](https://1drv.ms/b/c/32ad82fef2c1dc75/EcWeWZ13arpLty7ScZVHxbEBJwZM59weWRJlo7LxW5dvBg?e=gwRuFF)
 
 ## 💻 Technical Skills
 - **🐍 Programming Languages:** Python (pandas, NumPy, matplotlib, Plotly)
